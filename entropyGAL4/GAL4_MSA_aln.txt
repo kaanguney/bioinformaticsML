@@ -1,0 +1,712 @@
+>3COQA
+EQACDICRLKKLKCSKE-----KPK------CAKC--LKNN---WECRYSPKT------K
+R--SPLTRA-H----LTEVESRL------ERLEQ----LFLL--IF--------------
+-----------------P----RE--DLDMILKMDSLQDIKALLTGL---
+>UniRef90_D3XDC8_8_96 | GAL4p n=2 Tax=Saccharomyces RepID=D3XDC8_SACKU
+EQACDICRLKKLRCSKE-----KPK------CAKC--LKNN---SECRYSPKA------M
+R--SPLTRA-H----LTEVESRL------EKLED----LFLL--MF--------------
+-----------------P----RE--NLDSILNMDSLDEVKVMLKQL---
+>UniRef90_I2H6X1_15_101 | Uncharacterized protein n=1 Tax=Tetrapisispora blattae CBS 6284 RepID=I2H6X1_TETBL
+DQACDSCRLKKLKCSKE-----KPK------CAKC--LKNI---WECCYSPRA------K
+R--SPLTRN-H----LTKVENRL------SILEL----LFRE--IF--------------
+-----------------P----QT--DIEKILKLDSISKMSDLLK-----
+>UniRef90_G0VHW3_10_129 | Uncharacterized protein n=1 Tax=Naumovozyma castellii CBS 4309 RepID=G0VHW3_NAUCC
+DQACDLCRVKKLKCSKE-----KPK------CAKC--LKNN---WECCYSPKT------R
+R--SPLTRA-H----LTKVEDRL------TKLEF----LFNE--LFTKREMDGDAKYSVN
+KSIKEGEDDEDENDNDND----ND--LLDQILKMESIDEMRSALQGV---
+>UniRef90_C5E4R9_8_94 | ZYRO0E08272p n=1 Tax=Zygosaccharomyces rouxii CBS 732 RepID=C5E4R9_ZYGRC
+DHACDSCRQKKLRCSKE-----EPK------CAKC--IQNG---WECCYSPKA------N
+R--TPLTRA-H----MTKVETKL------DRLEQ----LFRE--LF--------------
+-----------------P----EE--DLDKVLNDRNTGQLKERLK-----
+>UniRef90_C5E274_8_94 | KLTH0H02684p n=1 Tax=Lachancea thermotolerans CBS 6340 RepID=C5E274_LACTC
+EQACDWCRRKKLKCSRE-----HPI------CSNC--FKHN---WDCHYSPKK------V
+R--SPLTRA-H----LTEVENRL------HQLER----LFGT--LF--------------
+-----------------P----GY--DWKDTSKDPSLSKLRHMLK-----
+>UniRef90_G0VEK9_17_101 | Uncharacterized protein n=1 Tax=Naumovozyma castellii CBS 4309 RepID=G0VEK9_NAUCC
+EQACDNCRLKKLKCSKE-----TPK------CSKC--LKNG---MKCLYSPKV------K
+R--SPLTRV-H----LTQTENKL------EKLER----LFIE--LF--------------
+-----------------P----DE--NVENLIHVMDSKDVMKL-------
+>UniRef90_G0WCD0_9_73 | Uncharacterized protein n=1 Tax=Naumovozyma dairenensis CBS 421 RepID=G0WCD0_NAUDC
+EQACDICRIKKLKCSRE-----KPK------CAKC--MKNG---WECCYSPKA------K
+R--SPLTRA-H----LTRVEDKL------SKLEN----LFNA--LF--------------
+--------------------------------------------------
+>UniRef90_G8BWF2_9_94 | Putative uncharacterized protein TPHA0H01980 n=1 Tax=Tetrapisispora phaffii CBS 4417 RepID=G8BWF2_TETPH
+DQACDSCRIKKLRCSKE-----NPK------CAKC--LKNK---WECCYSPRK------R
+R--SPLTRA-H----LTEVEDRL------SKFEQ----LFYE--FF--------------
+-----------------P----NI--NLDNTLNLNNATEMKKIL------
+>UniRef90_G0WFT2_8_82 | Uncharacterized protein n=1 Tax=Naumovozyma dairenensis CBS 421 RepID=G0WFT2_NAUDC
+EQACDNCRLKKLKCSKH-----FPK------CGQC--LKNN---WPCIYSPKV------K
+R--SPLTRV-H----LTNLENKL------EKLEN----LFNK--LL--------------
+-----------------P----NE--NINEILQ-----------------
+>UniRef90_H2AWF0_2_81 | Putative uncharacterized protein KAFR0F01040 n=1 Tax=Kazachstania africana CBS 2517 RepID=H2AWF0_KAZAF
+EQACDICRVKKLRCSKE-----KPS------CFKC--LKNN---LTCTYSPRA------K
+R--SPLTRA-H----LTEVEKKL------NNLTI----LFGK--LF--------------
+-----------------P----GE--NIGNLVKRFNID------------
+>UniRef90_G8ZUG5_5_90 | Putative uncharacterized protein TDEL0E00160 n=1 Tax=Torulaspora delbrueckii CBS 1146 RepID=G8ZUG5_TORDC
+DRACDSCRHKKLKCSKT-----RPK------CKKC--LKNG---WDCCYSPRI------K
+R--SPLTRV-H----LTEVESRL------EYLEQ----LLTE--LF--------------
+-----------------P----GV--DLDEIYKCESYDKANNLI------
+>UniRef90_P08657_93_178 | Lactose regulatory protein LAC9 n=1 Tax=Kluyveromyces lactis NRRL Y-1140 RepID=LAC9_KLULA
+-QACDACRKKKWKCSKT-----VPT------CTNC--LKYN---LDCVYSPQV------V
+R--TPLTRA-H----LTEMENRV------AELEQ----FLKE--LF--------------
+-----------------P------VWDIDRLLQQKDTYRIRELLT-----
+>UniRef90_A5DY92_119_191 | Putative uncharacterized protein n=1 Tax=Lodderomyces elongisporus NRRL YB-4239 RepID=A5DY92_LODEL
+EQACDSCRKRKLKCSKE-----YPR------CSKC--IQHK---WCCSYSPRT------V
+R--SPLTRA-H----LTEVENKL------QKLED----LLAY--IL--------------
+-----------------P----SD--YFAAL-------------------
+>UniRef90_E7R1G5_138_211 | Lactose regulatory protein n=1 Tax=Ogataea parapolymorpha DL-1 RepID=E7R1G5_PICAD
+EQACDSCRRRKLRCTKE-----LPK------CSKC--MDHG---WECVYSPRA------V
+R--SPLTRA-Y----LTKVENRV------KQLET----FLLK--AF--------------
+-----------------P----GE--DLEQML------------------
+>UniRef90_I2JVN8_181_255 | C6 transcription factor n=1 Tax=Dekkera bruxellensis AWRI1499 RepID=I2JVN8_DEKBR
+EQACDSCRKRKLKCSKE-----YPK------CSKC--IAHG---WECVYSXRT------V
+R--SPLTRA-Y----LTKVEARV------QQMEN----LLHQ--FI--------------
+-----------------P----DG--DIDALLE-----------------
+>UniRef90_C4QZ96_41_115 | Lactose regulatory protein n=2 Tax=Komagataella pastoris RepID=C4QZ96_PICPG
+EQACDSCRKRKLRCSKE-----YPK------CSKC--VTHK---WSCVYSPRT------V
+R--SPLTRA-H----LTKVENRV------RMLED----LLER--VF--------------
+-----------------P----TQ--SVDQLLE-----------------
+>UniRef90_H8X4E5_36_110 | Gal4 transcription factor n=1 Tax=Candida orthopsilosis Co 90-125 RepID=H8X4E5_CANO9
+EQACDSCRKRKLKCSKE-----YPR------CSKC--IQHK---WCCSYSPRT------V
+R--SPLTRA-H----LTDVETKL------SKMED----IFHH--LL--------------
+-----------------P----NY--DLDDILN-----------------
+>UniRef90_Q6BMQ9_19_104 | DEHA2F03366p n=1 Tax=Debaryomyces hansenii CBS767 RepID=Q6BMQ9_DEBHA
+EQACDSCRKRKLKCSKE-----SPK------CSKC--IQHN---WCCSYSPRT------V
+R--SPLTRA-H----LTQVENKV------KSLEN----LITY--LL--------------
+-----------------PQEVNSR--GIDQLLYQNTFKDV----------
+>UniRef90_C5M4V0_48_127 | Putative uncharacterized protein n=1 Tax=Candida tropicalis MYA-3404 RepID=C5M4V0_CANTT
+EQACDSCRKRKLKCSKE-----YPR------CTKC--IQHK---WCCTYSPRT------I
+R--SPLTRA-H----LTEVENRV------AQLES----ILNY--LL--------------
+----------------PP----NT--DIDDLIKNKTL-------------
+>UniRef90_Q755I3_7_93 | AFL160Cp n=1 Tax=Ashbya gossypii ATCC 10895 RepID=Q755I3_ASHGO
+-QACDSCRRRKMKCSKT-----FPK------CAKC--REDN---RVCLYSPKI------R
+R--SPLTRA-H----LTEVETRL------GQMEQ----LLRN--AFVDL-----------
+--------------------------DADTLLKHRHDPQLREILFG----
+>UniRef90_G8YBF8_14_99 | Piso0_002007 protein n=2 Tax=Millerozyma farinosa CBS 7064 RepID=G8YBF8_PICSO
+EQACDSCRKRKLKCSKE-----YPK------CSKC--IQHN---WECSYSPRT------V
+R--SPLTRA-H----LTEVEAKV------RGLEN----IVSF--LL--------------
+-----------------ARDLSSN--QIDGLLRQERYKEV----------
+>UniRef90_C4XW80_142_222 | Putative uncharacterized protein n=1 Tax=Clavispora lusitaniae ATCC 42720 RepID=C4XW80_CLAL4
+EQACDSCRKRKLKCSKE-----YPK------CSKC--IQHN---WCCSYSPRT------V
+R--SPLTRA-H----LTEVETRL------TRVTQ----MLRF--LL--------------
+----------------PP----GV--DVDKLMESGRFE------------
+>UniRef90_Q5A5R1_21_95 | Potential fungal zinc cluster transcription factor n=2 Tax=Candida albicans RepID=Q5A5R1_CANAL
+EQACDSCRKRKLKCSKE-----FPR------CSKC--IQHE---WCCSYSPRT------I
+R--SPLTRA-H----LTEVENRV------SQLEG----ILHY--LL--------------
+-----------------P----DH--DIDEIIN-----------------
+>UniRef90_B9WCY1_14_88 | Regulatory protein GAL4 homologue, putative n=1 Tax=Candida dubliniensis CD36 RepID=B9WCY1_CANDC
+EQACDSCRKRKLKCSKE-----FPR------CSKC--IQHK---WCCSYSPRT------I
+R--SPLTRA-H----LTEVETRV------TQLEG----ILRY--LL--------------
+-----------------P----SE--NIDDMIN-----------------
+>UniRef90_A3LV49_12_96 | Lactose regulatory protein LAC9 and GAL4-like protein n=1 Tax=Scheffersomyces stipitis CBS 6054 RepID=A3LV49_PICST
+-QACDSCRLRKMKCSKE-----YPQ------CQKC--KEQN---WKCVYSLKT------I
+R--SPLTRT-H----LSKVEDRV------KALEK----LLVR--LL--------------
+-----------------PGDV-----EINDLLRASESNSDIKE-------
+>UniRef90_G8YMR4_14_94 | Piso0_001283 protein n=2 Tax=Millerozyma farinosa CBS 7064 RepID=G8YMR4_PICSO
+-QACDSCRLRKMKCSKD-----YPI------CQKC--KEHN---WKCVYSPRT------I
+R--SPLTRT-H----LTKVEGRV------SSLER----LLKK--IL--------------
+-----------------PEDV-----EINDLLRTMEA-SD----------
+>UniRef90_G3BD88_17_98 | Lactose regulatory protein LAC9 and GAL4-like protein n=1 Tax=Candida tenuis ATCC 10573 RepID=G3BD88_CANTC
+QQACDSCRMRKLKCSKD-----YPT------CVKC--KEHN---WKCIYSPKS------I
+R--SPLTRA-Y----LTQVESRA------TTLEK----ILRR--ML--------------
+-----------------PEDV-----EVQDLLRIAEN-ED----------
+>UniRef90_G7XFS3_11_79 | C6 transcription factor n=3 Tax=Aspergillus RepID=G7XFS3_ASPKW
+--ACDECRLRKSKCSKE-----KPT------CAQC--KQLN---KECNYSPKV------T
+R--SPLTRQ-H----LTYVEERL------QAFET----ALSR--LF--------------
+-----------------P----GG--DLD---------------------
+>UniRef90_Q2U4J0_6_73 | Predicted protein n=1 Tax=Aspergillus oryzae RIB40 RepID=Q2U4J0_ASPOR
+---CDECRLRKSKCSKE-----KPT------CAQC--RQLN---KECKYSPKI------T
+R--SPLTRQ-H----LTYVEDRL------QAFET----ALGR--LF--------------
+-----------------P----GG--DLD---------------------
+>UniRef90_Q6BUE8_11_86 | DEHA2C11418p n=1 Tax=Debaryomyces hansenii CBS767 RepID=Q6BUE8_DEBHA
+QQACDSCRLRKLKCSKG-----SPQ------CHNC--KEHS---WKCVYSPKA------V
+R--TPLTRA-Y----LTRVEKRV------KGLES----LLKR--LL--------------
+-----------------PEDV-----EINELLR-----------------
+>UniRef90_C8VAN3_19_87 | Putative Zn(II)2Cys6 transcription factor (Eurofung) n=2 Tax=Aspergillus nidulans FGSC A4 RepID=C8VAN3_EMENI
+--ACDECRLRKSRCSKE-----KPT------CAQC--KQLD---KECKYSPKI------T
+R--SPLTRQ-H----LTYVEDRL------QAFES----ALGR--LF--------------
+-----------------P----GG--DLD---------------------
+>UniRef90_C9SKV6_15_86 | Lactose regulatory protein LAC9 n=2 Tax=Verticillium RepID=C9SKV6_VERA1
+--ACDHCRAKKLRCSKE-----IPS------CKGC--LRSS---VACHYSGRA------H
+R--SPLTRV-Y----LTDVESRL------ERVEK----LFAE--LL--------------
+-----------------P----DV--DINKAL------------------
+>UniRef90_A1CJE4_34_101 | Fungal specific transcription factor domain protein n=3 Tax=Trichocomaceae RepID=A1CJE4_ASPCL
+---CDECRMRKSRCSKE-----RPV------CAQC--KQLN---KECSYSPKI------T
+R--SPLTRQ-H----LTFVEERL------QAFET----ALGR--LF--------------
+-----------------P----GG--DLD---------------------
+>UniRef90_B6HF60_11_83 | Pc20g03000 protein n=1 Tax=Penicillium chrysogenum Wisconsin 54-1255 RepID=B6HF60_PENCW
+--ACDECRLRKSRCSKE-----RPV------CLQC--RQLN---KECIYSPKV------S
+R--SPLTRQ-H----LTYVEDRL------HSFET----ALGR--LF--------------
+-----------------P----GG--DLDATLR-----------------
+>UniRef90_B6QT91_11_82 | C6 transcription factor (Gal4), putative n=2 Tax=Trichocomaceae RepID=B6QT91_PENMQ
+--ACDECRARKSRCSKG-----KPK------CLQC--LKLG---KECIYSPKI------V
+R--SPLTRQ-H----LTYVEDRL------NAVET----ALSK--LF--------------
+-----------------P----GG--DLDNVV------------------
+>UniRef90_A5DNI4_68_146 | Putative uncharacterized protein n=2 Tax=Meyerozyma guilliermondii ATCC 6260 RepID=A5DNI4_PICGU
+EQACDSCRKRKLKCSKE-----FPQ------CTKC--AQHG---WDCCYSPRT------V
+R--SPLTRA-N----MTMVENQS------RQLSD----MLRY--LL--------------
+-----------------PSQVMGQLGGIDRI-------------------
+>UniRef90_B8NUN9_11_82 | C6 transcription factor (Gal4), putative n=2 Tax=Aspergillus flavus NRRL3357 RepID=B8NUN9_ASPFN
+--ACDECRLRKSKCSKE-----KPT------CAQC--RQLN---KECKYSPKI------T
+RICAPFARSLH----LTYVEDRL------QAFET----ALGR--LF--------------
+-----------------P----GG--DLD---------------------
+>UniRef90_H6C9N9_16_87 | Transcriptional regulatory protein GAL4 n=1 Tax=Exophiala dermatitidis NIH/UT8656 RepID=H6C9N9_EXODN
+-QSCRECRRRKGKCDGK-----MPV------CSIC--QRYN---RHCLYD-KH------S
+R--SSLTRK-H----LTEVEERL------EKAEA----LLRT--VF--------------
+-----------------T----EA--QLAEML------------------
+>UniRef90_G9MZX1_13_75 | Putative uncharacterized protein n=1 Tax=Trichoderma virens Gv29-8 RepID=G9MZX1_HYPVG
+EQACKECRRRKSKCNKG-----IPT------CNMC--LRYR---RHCLYE-KH------S
+R--TPLTRR-H----LTEVEERL------EQAEA----LIRQ--L---------------
+--------------------------------------------------
+>UniRef90_Q6BXW8_8_86 | DEHA2A14278p n=1 Tax=Debaryomyces hansenii CBS767 RepID=Q6BXW8_DEBHA
+---CDFCRRRKLKCSRE-----LPK------CSSC--IKFN---KACAYTPRQ------R
+P--PPLTKA-Y----VQQLQNRI------INLEN----TLGK--LV--------------
+----------------------NSNQERDVLLQNQSTSD-----------
+>UniRef90_C5GWG0_33_101 | Fungal specific transcription factor domain-containing protein n=3 Tax=Ajellomyces dermatitidis RepID=C5GWG0_AJEDR
+-----------IACSKE-----RPT------CSLC--KQLK---KECVYSPKV------V
+R--TPLTRQ-N----LTNAEERI------RKLEA----VIST--LL--------------
+-----------------P----NV--DIEEFLGSSSPQ------------
+>UniRef90_G3AZH7_7_79 | Putative uncharacterized protein n=1 Tax=Candida tenuis ATCC 10573 RepID=G3AZH7_CANTC
+--ACDFCRRRKLKCSRE-----TPR------CDKC--IWYH---KECFYSPEN------K
+R--VQLTKS-N----VQKLHTRV------SILER----LLAR--YV--------------
+----------------------PNSEELEKLI------------------
+>UniRef90_B6H9L2_28_92 | Pc16g11020 protein n=1 Tax=Penicillium chrysogenum Wisconsin 54-1255 RepID=B6H9L2_PENCW
+--ACRECRRRKSKCDRR-----LPN------CSLC--IKFG---RRCTYE-PL------S
+K--TPLTRQ-H----LTQVEEEL------ARTKA----LLSK--HL--------------
+-----------------P----RS--------------------------
+>UniRef90_Q5AUB9_32_97 | Putative Zn(II)2Cys6 transcription factor (Eurofung) n=1 Tax=Aspergillus nidulans FGSC A4 RepID=Q5AUB9_EMENI
+EQACRECRRRKSKCDRA-----IPV------CRLC--SKYK---RQCTYE-KP------A
+R--TPLTRT-H----LSRVENEL------ARTKA----LLRR--FM--------------
+-----------------P----D---------------------------
+>UniRef90_E4ZYV7_124_197 | Putative uncharacterized protein n=1 Tax=Leptosphaeria maculans JN3 RepID=E4ZYV7_LEPMJ
+-----------IQCSKE-----TPT------CISC--AHSG---HQCHYSGKV------T
+R--SPLTRA-Y----LTGVEKRL------HDVEA----LVTQ--LL--------------
+-----------------P----GV--SIDEVLASPERIQNAAS-------
+>UniRef90_A5DQ33_19_105 | Putative uncharacterized protein n=2 Tax=Meyerozyma guilliermondii ATCC 6260 RepID=A5DQ33_PICGU
+--ACNECKRRRSKCSRD-----VPT------CSLC--LKHH---RHCLYE-KT------N
+R--SPLTRK-H----LTQVEEEL------RISRK----VIQR--HF--------------
+-----------------P----TM--DISRMVQEIKNGSNIDELIDSF--
+>UniRef90_G4T7G2_29_97 | Putative uncharacterized protein n=1 Tax=Piriformospora indica DSM 11827 RepID=G4T7G2_PIRID
+-RACEECRRKKVKCDSR-----EPV------CSQC--AATN---AECKWTQTK------D
+RAALSRH-------YVQELEARL------LYMEQ----LFKQ--HA--------------
+-----------------P--------DVEV--------------------
+>UniRef90_Q6CBG1_23_107 | YALI0C19151p n=1 Tax=Yarrowia lipolytica CLIB122 RepID=Q6CBG1_YARLI
+-QACDRCRSKKIKCDGK-----RPH------CSHC--VSVG---FECKTSDKL------T
+RRAFPRG-------YTEALEDRI------RQLEA----ENNK--LL--------------
+-----------------G--------ILDLKDEQMEMINRVSSVMD----
+>UniRef90_F9WWN8_99_169 | Putative uncharacterized protein (Fragment) n=1 Tax=Mycosphaerella graminicola IPO323 RepID=F9WWN8_MYCGM
+--ACIACRRKKIRCSGE-----KPA------CKHC--LRSR---IPCVYKVTT------R
+KAAPRTD-------YMAMLDKRL------KRMED----RVIK--VL--------------
+-----------------P--------KEDLGLV-----------------
+>UniRef90_E5AAM5_61_130 | Putative uncharacterized protein n=1 Tax=Leptosphaeria maculans JN3 RepID=E5AAM5_LEPMJ
+-RACDECRRKKIKCDGK-----QP-------CTHC--TVYS---YECTYDQPS------N
+RRRNAT------PQYIEALESQL------KRAKA----LLHV--VF--------------
+-----------------P--------TIDLN-------------------
+>UniRef90_B6HBT2_56_125 | Pc18g00400 protein n=1 Tax=Penicillium chrysogenum Wisconsin 54-1255 RepID=B6HBT2_PENCW
+-RACDECRRKKIKCDGK-----QP-------CTHC--TVYS---YECSYDQPS------N
+RRRNPA------PQYVEALENRL------QKAEA----LLRI--VL--------------
+-----------------P--------NVDLD-------------------
+>UniRef90_G3JQ27_196_266 | Zinc finger transcription factor 1 n=1 Tax=Cordyceps militaris CM01 RepID=G3JQ27_CORMM
+--ACIACRRKKIRCSGE-----KPA------CKHC--LRSR---IPCVYKVTS------R
+KAAPRTD-------YMAMLDKRL------KRMEE----RIIK--IV--------------
+-----------------P--------KSDQDNL-----------------
+>UniRef90_G1XAP0_61_130 | Putative uncharacterized protein n=1 Tax=Arthrobotrys oligospora ATCC 24927 RepID=G1XAP0_ARTOA
+-RACDCCRRKKIKCDGL-----QP-------CTHC--SVYS---YECTYDQPS------N
+RRRNPT------PQYIEALEGRL------QRLDS----FFKS--VL--------------
+-----------------P--------DMDVD-------------------
+>UniRef90_E9DY28_193_261 | Zinc finger transcription factor 1 n=2 Tax=Metarhizium RepID=E9DY28_METAQ
+--ACIACRRKKIRCSGE-----KPA------CRHC--LRSR---IPCVYKVTT------R
+KAAPRTD-------YMAMLDKRL------KRMED----RIIK--II--------------
+-----------------P--------KPDQD-------------------
+>UniRef90_H6BK78_158_225 | Putative uncharacterized protein n=1 Tax=Exophiala dermatitidis NIH/UT8656 RepID=H6BK78_EXODN
+--ACIACRRKKIRCSGE-----KPA------CKHC--LRAR---IPCVYKVTT------R
+KAAPRTD-------YMAMLDKRL------KRMED----RVIR--VI--------------
+-----------------P--------KDEL--------------------
+>UniRef90_G9NUL9_187_257 | Putative uncharacterized protein n=1 Tax=Trichoderma atroviride IMI 206040 RepID=G9NUL9_HYPAI
+--ACIACRRKKIRCSGE-----KPA------CKHC--MRSR---IPCVYKVTT------R
+KAAPRTD-------YMAMLDKRL------KRMEE----RIIK--IL--------------
+-----------------P--------KSDQDSL-----------------
+>UniRef90_A8NWP7_42_106 | Fungal specific transcription factor domain-containing protein n=1 Tax=Coprinopsis cinerea okayama7#130 RepID=A8NWP7_COPC7
+-RACESCRRKKIKCDGV-----EPT------CAQC--TASG---SQCTWLQTK------D
+RAALSRH-------YVQELEARL------LHMEA----LFQQ--IA--------------
+-----------------P--------------------------------
+>UniRef90_G9NL19_58_126 | Putative uncharacterized protein n=1 Tax=Trichoderma atroviride IMI 206040 RepID=G9NL19_HYPAI
+-RACDECRRKKIKCDGK-----QP-------CTHC--SVYS---YECTYDKPS------N
+RRRNPA------PQYIEALESRL------QRAET----LLRK--FV--------------
+-----------------P--------DIDL--------------------
+>UniRef90_I1RND0_176_245 | Uncharacterized protein n=2 Tax=Nectriaceae RepID=I1RND0_GIBZE
+--ACIACRRKKIRCSGE-----KPA------CKHC--LRSR---IPCVYKVTT------R
+KAAPRTD-------YMAMLDKRL------KRMEE----RIIK--VI--------------
+-----------------P--------KSDQEV------------------
+>UniRef90_C7Z9U1_56_124 | Predicted protein n=1 Tax=Nectria haematococca mpVI 77-13-4 RepID=C7Z9U1_NECH7
+-RACDECRRKKIKCDGK-----QP-------CTHC--SVYS---YECTYDKPS------N
+RRRNPA------PQYIEALESRL------QRAES----LLHK--FM--------------
+-----------------P--------DVDL--------------------
+>UniRef90_G2QDI8_200_285 | Putative uncharacterized protein n=1 Tax=Myceliophthora thermophila ATCC 42464 RepID=G2QDI8_THIHA
+--ACIACRRKKIRCSGE-----KPA------CKHC--LRSR---IPCVYKVTA------R
+KAAPRTD-------YMAMLDKRL------KRMEE----RIIK--IV--------------
+-----------------P--------KAEQDALAASVTRAVVKPAIPG--
+>UniRef90_C5G9J5_184_250 | C6 transcription factor n=3 Tax=Ajellomyces dermatitidis RepID=C5G9J5_AJEDR
+--ACIACRRKKIRCSGE-----KPA------CKHC--FRSR---IPCVYKVTT------R
+KAAPRTD-------YMAMLDKRL------KRMEE----RVIK--II--------------
+-----------------P--------KDE---------------------
+>UniRef90_D5G4D9_69_138 | Whole genome shotgun sequence assembly, scaffold_1, strain Mel28 n=1 Tax=Tuber melanosporum Mel28 RepID=D5G4D9_TUBMM
+-RACDECRRKKIKCDGK-----QP-------CTHC--TVYS---YECTYDQPS------N
+RRRNPA------PQYIEALETRL------HRMEA----LLKV--LL--------------
+-----------------P--------DVDVN-------------------
+>UniRef90_F0XAE0_280_350 | C6 zinc finger domain containing protein n=1 Tax=Grosmannia clavigera kw1407 RepID=F0XAE0_GROCL
+--ACIACRRKKIRCSGE-----KPA------CKHC--LRSR---TPCVYKVTT------R
+KATPRTD-------YMAMLDKRL------KRMED----RIIK--IV--------------
+-----------------P--------KTEQDAV-----------------
+>UniRef90_G0SHM7_213_298 | Putative transcriptional regulatory protein n=1 Tax=Chaetomium thermophilum var. thermophilum DSM 1495 RepID=G0SHM7_CHATD
+--ACIACRRKKIRCSGE-----KPA------CKHC--LRSR---IPCVYKVTA------R
+KAAPRTD-------YMAMLDKRL------KRMEE----RIIK--II--------------
+-----------------P--------KPEQEVALANVTRAVVKPAIPG--
+>UniRef90_C5P9I1_74_143 | Fungal specific transcription factor, putative n=3 Tax=Coccidioides posadasii RepID=C5P9I1_COCP7
+-RACDECRRKKIKCDGK-----QP-------CTHC--TVYS---YACTYDQPS------N
+RRRNPA------PQYIEALEARL------QKAEA----LLRA--VL--------------
+-----------------P--------DVDLD-------------------
+>UniRef90_E5R3C4_74_143 | Transcriptional activator Mut3p n=1 Tax=Arthroderma gypseum CBS 118893 RepID=E5R3C4_ARTGP
+-RACDECRRKKIKCDGK-----QP-------CTHC--TVYS---YECTYDKPS------N
+RRRNPA------PQYIEALECRL------QKAER----LLRA--LV--------------
+-----------------P--------EIDLD-------------------
+>UniRef90_B2W2C3_190_257 | Zinc finger transcription factor 1 n=2 Tax=Pyrenophora RepID=B2W2C3_PYRTR
+--ACIACRRKKIRCSGE-----KPA------CKHC--LRSR---IPCVYKVTT------R
+KAAPRTD-------YMAMLDKRL------KRMED----RVVK--LI--------------
+-----------------P--------KESL--------------------
+>UniRef90_C5NZ38_62_133 | Fungal specific transcription factor, putative n=1 Tax=Coccidioides posadasii C735 delta SOWgp RepID=C5NZ38_COCP7
+--ACMVCRRRKLRCDGR-----KPS------CGNC--ARLG---HDCTYNETR------K
+KSGPKRG-------YVKQLEARLARFLPPAQVET----LLKG------------------
+-----------------QDATD----------------------------
+>UniRef90_H6BK54_74_143 | Transcriptional regulatory protein GAL4 n=1 Tax=Exophiala dermatitidis NIH/UT8656 RepID=H6BK54_EXODN
+-RACDECRRKKIKCDGK-----QP-------CTHC--TVYS---YECTYDQPS------N
+RRRNPA------PQYIEALEQRL------QKAEA----ILRS--VL--------------
+-----------------P--------GLDLD-------------------
+>UniRef90_D8PKF7_42_127 | Putative uncharacterized protein n=1 Tax=Schizophyllum commune H4-8 RepID=D8PKF7_SCHCM
+-RACESCRRKKIKCDGS-----EPT------CSQC--MASG---SQCTWLQTK------D
+RAALSRH-------YVQELEGRL------LQMET----LFNQ--LA--------------
+-----------------P--------VLDQIGISTNGGNLAEIQRAI---
+>UniRef90_G9N3G6_65_135 | Putative uncharacterized protein n=1 Tax=Trichoderma virens Gv29-8 RepID=G9N3G6_HYPVG
+--ACIACRRKKIRCSGE-----KPA------CKHC--MRSR---IPCVYKVTT------R
+KAAPRTD-------YMAMLDKRL------KRMEE----RIIK--IL--------------
+-----------------P--------KGEQETI-----------------
+>UniRef90_F9F1D8_46_113 | Uncharacterized protein n=1 Tax=Fusarium oxysporum Fo5176 RepID=F9F1D8_FUSOF
+--ACMICRKRKLKCDGV-----RPS------CSTC--SRLG---HTCAYDEQR------R
+KSGPKRG-------YVKALEERL------KQVET----LLKT------------------
+-----------------QEPPQNI--------------------------
+>UniRef90_Q7RXQ3_120_188 | Putative uncharacterized protein n=3 Tax=Neurospora RepID=Q7RXQ3_NEUCR
+-RACDECRRKKIKCDGK-----QP-------CSHC--SIYS---YDCTYDKPS------N
+RRRNPA------PQYIEALESRL------QRAES----LLRK--FV--------------
+-----------------P--------DIDL--------------------
+>UniRef90_F2Z5X6_181_265 | KLLA0D01452p n=2 Tax=Kluyveromyces lactis RepID=F2Z5X6_KLULA
+-QACDRCRAKKIRCDGK-----RPQ------CTQC--AAVG---FECKISDKL------S
+RRAFPRG-------YTETLEERV------RELEA----ENRR--LV--------------
+-----------------A--------LCDLKEEQLHLVSKYSNSKD----
+>UniRef90_F8NMH1_43_107 | Putative uncharacterized protein n=2 Tax=Serpula lacrymans var. lacrymans RepID=F8NMH1_SERL9
+-RACESCRRKKIKCDGC-----EPT------CSQC--QASG---SSCAWLQTK------D
+RAALSRH-------YVQELEARL------LHMES----LFTQ--IT--------------
+-----------------P--------------------------------
+>UniRef90_B0CUU2_42_106 | Predicted protein n=1 Tax=Laccaria bicolor S238N-H82 RepID=B0CUU2_LACBS
+-RACESCRRKKIKCDGC-----EPT------CSQC--SMSG---SQCTWLQTK------D
+RAALSRH-------YVQELEARL------LHMES----LFSQ--IA--------------
+-----------------P--------------------------------
+>UniRef90_B8N1I8_65_134 | C6 transcription factor (Mut3), putative n=2 Tax=Aspergillus RepID=B8N1I8_ASPFN
+-RACDECRRKKIKCDGK-----QP-------CTHC--TVYS---YECTYDQPS------N
+RRRNPA------PQYVEALEARL------HKAEA----LLRV--VL--------------
+-----------------P--------DINLD-------------------
+>UniRef90_B6HCP3_181_254 | Pc18g01980 protein n=1 Tax=Penicillium chrysogenum Wisconsin 54-1255 RepID=B6HCP3_PENCW
+--ACIACRRKKIRCSGE-----KPA------CKHC--TRSR---IPCVYKVTT------R
+KAAPRTD-------YMAMLDKRL------KRMED----RVIK--TI--------------
+-----------------P--------KEETRDMLSI--------------
+>UniRef90_A7F4K7_178_244 | Putative uncharacterized protein n=1 Tax=Sclerotinia sclerotiorum 1980 UF-70 RepID=A7F4K7_SCLS1
+--ACTACRRKKIRCSGE-----KPA------CVNC--TRSK---IPCVYKVTT------K
+KAAPRTD-------YMGMLDKRL------KRMES----RITN--IV--------------
+-----------------P--------KEE---------------------
+>UniRef90_F9F619_23_93 | Uncharacterized protein n=1 Tax=Fusarium oxysporum Fo5176 RepID=F9F619_FUSOF
+---CRECRRRKVKCDGV-----MPV------CSIC--RKYR---RHCLYD-KH------S
+R--TRLTRR-Q----LTLLEERL------EKAET----VLRR--HY--------------
+-----------------T----DG--QIAEMLE-----------------
+>UniRef90_E9DU56_22_103 | Transcriptional activator protein acu-15 n=2 Tax=Metarhizium RepID=E9DU56_METAQ
+-QACDRCRSKKIRCDGV-----RPT------CSQC--ANVG---FECRTSDKL------S
+RRAFPRG-------YTESLEERV------RQLET----EVRE--LK--------------
+-----------------D--------LLDEKDEKIDMLSAMHG-------
+>UniRef90_A1DD89_38_102 | C6 transcription factor, putative n=1 Tax=Neosartorya fischeri NRRL 181 RepID=A1DD89_NEOFI
+REACDECRIRKVRCNKE-----YPK------CSSC--RKSN---LACGFSNKG------K
+RVNHTKKLVND----VEILGNRL------GKIEEALI-----------------------
+--------------------------------------------------
+>UniRef90_B2AVK7_38_102 | Predicted CDS Pa_7_2610 n=1 Tax=Podospora anserina S mat+ RepID=B2AVK7_PODAN
+--ACVSCRTRKLKCDRR-----KPN------CTRC--ARSG---GDCHYPESR------R
+KPAFKRR-------NVRELEERL------AQVEG----LLKN------------------
+-----------------VSRR-----------------------------
+>UniRef90_D5GB61_21_103 | Whole genome shotgun sequence assembly, scaffold_19, strain Mel28 n=1 Tax=Tuber melanosporum Mel28 RepID=D5GB61_TUBMM
+-QACDRCRSKKIRCDGI-----RPC------CSQC--ANVG---FECKTSDKL------S
+RRAFPRG-------YTESLEERV------RCLEQ----EVRE--MK--------------
+-----------------D--------LLDAKDEQLDMLSRIHSF------
+>UniRef90_B6Q626_69_134 | C6 transcription factor (Mut3), putative n=1 Tax=Penicillium marneffei ATCC 18224 RepID=B6Q626_PENMQ
+-RACDECRRKKIKCDGK-----QP-------CTHC--TVYS---YDCTYDQPS------N
+RRRNPT------PQYIEALESRL------QKAEE----ILRI--LA--------------
+-----------------P--------D-----------------------
+>UniRef90_B6Q6F3_88_154 | C6 transcription factor, putative n=1 Tax=Penicillium marneffei ATCC 18224 RepID=B6Q6F3_PENMQ
+--ACIACRRKKIRCSGE-----KPA------CKHC--QKSR---IPCVYKVTT------R
+KAQPRTD-------YMAMLDKRL------KRMEE----RVIK--II--------------
+-----------------P--------ASE---------------------
+>UniRef90_I2G353_51_113 | Uncharacterized protein n=1 Tax=Ustilago hordei RepID=I2G353_USTHO
+-RACEVCRRKKVKCNGQ-----KP-------CSHC--VAFA---EQCIYVDVK------D
+RSAYSRR-------YVESLEMRL------ERLERAWAIAF--------------------
+--------------------------------------------------
+>UniRef90_Q0CTD3_175_248 | Putative uncharacterized protein n=1 Tax=Aspergillus terreus NIH2624 RepID=Q0CTD3_ASPTN
+--ACIACRRKKIRCSGE-----KPA------CKHC--SRSR---IPCVYKVTT------R
+KAAPRTD-------YMAMLDKRL------KRMED----RVIK--TI--------------
+-----------------P--------KDEVRDMAAI--------------
+>UniRef90_G9P7Y2_65_147 | Putative uncharacterized protein n=1 Tax=Trichoderma atroviride IMI 206040 RepID=G9P7Y2_HYPAI
+-RACDQCRRKKIKCDGK-----LPS------CTHC--TNYK---TECVFTQIE------K
+KRTPPKG-----AKYIEALENRL------GRMEK----LLRLAGIL--------------
+-----------------E--------NEDDDLAELEKRLT----------
+>UniRef90_C4R1N6_34_106 | Zinc cluster transcriptional activator n=2 Tax=Komagataella pastoris RepID=C4R1N6_PICPG
+-QACDRCRSKKTRCDGK-----RPQ------CSQC--AAVG---FECKISDKL------S
+RRAFPRG-------YTETLEERI------RELEF----ENKK--LH--------------
+-----------------K--------LIDLKNEQ----------------
+>UniRef90_E5R3V3_140_213 | Zinc finger transcription factor 1 n=1 Tax=Arthroderma gypseum CBS 118893 RepID=E5R3V3_ARTGP
+--ACIVCRRKKIRCSGE-----KPA------CKHC--YRSR---IPCVYKVTT------R
+KAAPRTD-------YMAMLDKRL------KRMEE----RVMK--AI--------------
+-----------------P--------KDEQRDMVAI--------------
+>UniRef90_A2QSI8_25_87 | Putative uncharacterized protein An08g10880 n=3 Tax=Aspergillus niger RepID=A2QSI8_ASPNC
+--ACDECRIRKVRCNKE-----YPK------CSSC--RASN---LPCEFSNKG------K
+RINHTKKLVND----VELLGSRL------GKIEEALF-----------------------
+--------------------------------------------------
+>UniRef90_B6JYS2_28_94 | Transcription factor n=1 Tax=Schizosaccharomyces japonicus yFS275 RepID=B6JYS2_SCHJY
+QRACDLCRKRKIRCDGK-----MPS------CTNC--LNHN---VTCVFTPRS------K
+RKGGQR------QLYLKSLVSRL------EQMES----VLRT--AA--------------
+-----------------P--------------------------------
+>UniRef90_A3LYE1_12_79 | Fungal specific zinc-finger transcription factor (Fragment) n=1 Tax=Scheffersomyces stipitis CBS 6054 RepID=A3LYE1_PICST
+RQACDYCRSKKARCDGK-----SPK------CSTC--MSMD---MTCTYTQSA------K
+RRGLPTG-------YIHDLERKV------LMFQA----LFAS--IL--------------
+-----------------S--------ND----------------------
+>UniRef90_A1CC03_25_89 | C6 transcription factor, putative n=1 Tax=Aspergillus clavatus NRRL 1 RepID=A1CC03_ASPCL
+EPACDECRIRKVRCNKE-----YPK------CSSC--RKSN---LACGFSNKG------K
+RINHTKKLVND----VEVLGNRL------GKIEAALL-----------------------
+--------------------------------------------------
+>UniRef90_C5M7A2_22_91 | Putative uncharacterized protein n=1 Tax=Candida tropicalis MYA-3404 RepID=C5M7A2_CANTT
+KQACDYCRSKKAKCDGK-----APS------CTNC--ITSN---EECVYSQPS------K
+RRGLPSG-------YTHSLEKRI------LLFKG----ILVS--LI--------------
+-----------------Q--------D-----------------DKL---
+>UniRef90_C7YU42_61_135 | Predicted protein n=1 Tax=Nectria haematococca mpVI 77-13-4 RepID=C7YU42_NECH7
+-RACDMCRKKKIKCDGK-----MPA------CTHC--INYK---TECVFTQVE------K
+KRAPPKG-----AKYIEGLENRL------NRMEH----LLRLSGLL--------------
+-----------------D--------EEDGDL------------------
+>UniRef90_G0R7I4_69_151 | N-terminal binuclear Zn cluster-containing protein n=1 Tax=Trichoderma reesei QM6a RepID=G0R7I4_HYPJQ
+-RACDQCRRKKIKCDGK-----LPA------CTHC--TNYK---TECIFTQIE------K
+KRATPKG-----AKYIEALENRL------ARMEK----LLRLAGIL--------------
+-----------------V--------NDDDDLAELEKRLT----------
+>UniRef90_G4N8I4_200_270 | Zinc finger transcription factor 1 n=1 Tax=Magnaporthe oryzae 70-15 RepID=G4N8I4_MAGO7
+--ACIACRRKKIRCSGE-----KPA------CKHC--LRSR---IPCVYKVTA------R
+KAAPRTD-------YMAMLDKRL------KRMEE----RIIK--TV--------------
+-----------------P--------KSEQDGI-----------------
+>UniRef90_C5NN42_34_98 | Putative fungal specific transcription factor n=1 Tax=Lentinula edodes RepID=C5NN42_LENED
+-RACECCRRNKIKCDGC-----EPT------CSQC--ASSG---SQCTWLQTK------D
+RAALSRH-------YVQELEARL------LHMES----IFSQ--IA--------------
+-----------------P--------------------------------
+>UniRef90_F9WZ61_9_78 | Fungal transcriptional regulatory protein n=1 Tax=Mycosphaerella graminicola IPO323 RepID=F9WZ61_MYCGM
+-RACDECRRKKIKCDGK-----QP-------CTHC--TVYS---YDCTYDQPS------N
+RRRNPA------PQYVENLEHRV------HRAET----LLHI--LI--------------
+-----------------P--------NLDLN-------------------
+>UniRef90_B6HC31_59_122 | Pc18g05390 protein n=1 Tax=Penicillium chrysogenum Wisconsin 54-1255 RepID=B6HC31_PENCW
+-RACDMCRKKKIKCDGK-----MPK------CSHC--INYK---TECIFTQVE------K
+KRNPPKG-----AKYIEGLENRL------GRMES----LLRL------------------
+--------------------------------------------------
+>UniRef90_G9MDS0_68_142 | Putative uncharacterized protein n=1 Tax=Trichoderma virens Gv29-8 RepID=G9MDS0_HYPVG
+-RACDQCRRKKIKCDGK-----LPS------CTHC--TNYK---TECIFTQIE------K
+KRATPKG-----AKYIEGLENRL------SRMEK----LLRLAGII--------------
+-----------------V--------NEDEDL------------------
+>UniRef90_A7TNT5_96_158 | Putative uncharacterized protein n=1 Tax=Vanderwaltozyma polyspora DSM 70294 RepID=A7TNT5_VANPO
+-QACDRCRLKKIKCDGL-----KPN------CSQC--LKVN---FICKTSDKL------T
+RRGFPRG-------YTEMLEKEV------VLLQK----KLKL--F---------------
+--------------------------------------------------
+>UniRef90_G2XSY6_177_243 | Similar to transcription factor Cys6 n=2 Tax=Botryotinia fuckeliana RepID=G2XSY6_BOTF4
+--ACTACRRKKIRCSGE-----KPA------CVNC--TRSK---IPCVYKVTT------K
+KATPRTD-------YMAMLDKRI------KRMET----RIMN--TM--------------
+-----------------P--------KEE---------------------
+>UniRef90_B2B4R0_22_103 | Predicted CDS Pa_2_2140 n=1 Tax=Podospora anserina S mat+ RepID=B2B4R0_PODAN
+-QACDRCRSKKIRCDGI-----RPC------CSQC--ANVG---FECRTSDKL------S
+RRAFPRG-------YTESLEERV------RALES----EVRE--LK--------------
+-----------------D--------LLDEKDEKIDMLSKMHS-------
+>UniRef90_B8P3G3_74_146 | Predicted protein n=1 Tax=Postia placenta Mad-698-R RepID=B8P3G3_POSPM
+ERACDFCRRRKTKCDGP--KMLDNV------CTNC--LQTG---RQCTYIESS------K
+PRGPPKA-------YVTALEDRV------EKMEA----LLKR--LR--------------
+-----------------P--------EADF--------------------
+>UniRef90_E5A543_22_103 | Similar to transcriptional activator protein acu-15 n=1 Tax=Leptosphaeria maculans JN3 RepID=E5A543_LEPMJ
+-QACDRCRSKKIRCDGI-----RPS------CTQC--TNVG---FECKTSDKL------S
+RRAFPRG-------YTESLEERV------RVLEA----EVRE--LK--------------
+-----------------E--------LLDEKDEKIDMLSRMHS-------
+>UniRef90_Q6BKA0_16_86 | DEHA2F23650p n=1 Tax=Debaryomyces hansenii CBS767 RepID=Q6BKA0_DEBHA
+KQACDYCRSKKAKCDGK-----SPV------CSTC--AVNS---ESCTYTQSS------K
+RRGLPTG-------YTHDLEKKV------LLFQA----LFAS--LM--------------
+-----------------N--------GNHID-------------------
+>UniRef90_C0NUB5_77_142 | Zinc finger transcription factor 1 n=5 Tax=Ajellomyces capsulatus RepID=C0NUB5_AJECG
+--ACIACRRKKIRCSGE-----KPA------CRHC--YRSR---TPCVYKVTT------R
+KAAPRTD-------YMAMLDRRL------KKMEE----RVIK--II--------------
+-----------------P--------KN----------------------
+>UniRef90_Q5KM09_12_87 | Nucleus protein, putative n=2 Tax=Cryptococcus neoformans var. neoformans RepID=Q5KM09_CRYNJ
+QRACDVCRRKKIKCEGPMNSLSDAK------CAHC--EEYG---MDCTYVEAA------K
+RRGPPKG-------YVETLEQRA------GRLER----MLQQ--IY--------------
+-----------------P--------GVDLN-------------------
+>UniRef90_Q6BMM2_51_127 | DEHA2F04202p n=1 Tax=Debaryomyces hansenii CBS767 RepID=Q6BMM2_DEBHA
+-QACDRCRAKKTKCDGK-----VPT------CSSC--AAVG---FKCIVSDKL------S
+RRAFPKG-------YTETLEERI------RQLEI----ENKK--LV--------------
+-----------------G--------ILDLRDEQLDML------------
+>UniRef90_A2QYR8_16_81 | Putative uncharacterized protein An12g02210 n=1 Tax=Aspergillus niger CBS 513.88 RepID=A2QYR8_ASPNC
+--ACDECRRRKLRCDGQ-----KPQ------CGRC--LDTG---VACELTQRS------A
+R-GPKKG-------HLRDLKNRL------VYLEA----LLEN--SV--------------
+-----------------P--------AED---------------------
+>UniRef90_G1XHN6_83_154 | Putative uncharacterized protein n=1 Tax=Arthrobotrys oligospora ATCC 24927 RepID=G1XHN6_ARTOA
+-RACDQCRKKKIKCDGK-----TPA------CTHC--QNYH---TECVFTLVE------K
+KRQPPKG-----AKYIEGLENRL------GRMES----LLKLSGIL--------------
+-----------------P--------EFD---------------------
+>UniRef90_F7VNC7_74_150 | Putative uncharacterized protein SMAC_00882 n=2 Tax=Sordariaceae RepID=F7VNC7_SORMK
+--ACNRCRLRKNRCDQK-----LPS------CASC--EKAN---VACVGYDPI------T
+KREIPRS-------YIFYLEKRV------EQLEN----LLKD------------------
+-----------------NNITYPPAENLDYCSK-----------------
+>UniRef90_B8N3I1_16_79 | C6 finger domain protein, putative n=2 Tax=Aspergillus flavus NRRL3357 RepID=B8N3I1_ASPFN
+--ACNACRFRKQKCSGK-----KPV------CTQC--LQHN---RVCDWPEQL------K
+R-GPAKG-------YIESLEHRL------HETET----VLLK--VLSR------------
+--------------------------------------------------
+>UniRef90_F7W6Y0_46_109 | Putative uncharacterized protein SMAC_07049 n=1 Tax=Sordaria macrospora k-hell RepID=F7W6Y0_SORMK
+-QACDMCRKKKIKCDGK-----LPA------CTHC--INYK---TDCVFTQVE------K
+KRSPPKG-----AKYIEGLENRL------GRMEH----LLRL------------------
+--------------------------------------------------
+>UniRef90_Q4PEK7_69_133 | Putative uncharacterized protein n=1 Tax=Ustilago maydis 521 RepID=Q4PEK7_USTMA
+-RACEVCRRKKVKCNGQ-----KP-------CSQC--IAFA---EECNYVDVR------D
+RSAYSRR-------YVESLEARM------AELERQVAILIER------------------
+--------------------------------------------------
+>UniRef90_I2G3T5_81_153 | Related to transcriptional activator acu-15 n=1 Tax=Ustilago hordei RepID=I2G3T5_USTHO
+QRACDTCRKKKVRCDGL--QPEKGA------CSNC--ANYG---YECTFVDAA------R
+KRAPPRS-------YVEAIEARI------VKMEQ----LVSS--LA--------------
+-----------------P--------GVDF--------------------
+>UniRef90_A7EYC4_23_104 | Putative uncharacterized protein n=1 Tax=Sclerotinia sclerotiorum 1980 UF-70 RepID=A7EYC4_SCLS1
+-QACDRCRSKKIRCDGI-----RPC------CSQC--SGVG---FECKTSDKL------S
+RRAFPRG-------YTESLEERV------RTLEA----EVRE--FK--------------
+-----------------D--------LLDEKEEKIDILSKMHS-------
+>UniRef90_F9XA31_9_72 | Putative uncharacterized protein (Fragment) n=1 Tax=Mycosphaerella graminicola IPO323 RepID=F9XA31_MYCGM
+-RACDMCRKKKIKCDGK-----MPK------CSHC--ENYK---TECIFTHVE------K
+KRAPPKG-----AKYIEGLENRL------GRMES----LLRL------------------
+--------------------------------------------------
+>UniRef90_D5GBL8_23_94 | Whole genome shotgun sequence assembly, scaffold_2, strain Mel28 n=1 Tax=Tuber melanosporum Mel28 RepID=D5GBL8_TUBMM
+-RACDMCRKKKIKCDGK-----LPA------CTHC--MNYK---TECVFTLVE------K
+KRNPPKG-----AKYIEGLENRL------GRMES----LLKLSGLL--------------
+-----------------P--------EGD---------------------
+>UniRef90_E6QZI9_12_87 | Nucleus protein, putative n=1 Tax=Cryptococcus gattii WM276 RepID=E6QZI9_CRYGW
+QRACDVCRRKKIKCEGPMNSLSDAR------CAHC--EEYG---MDCTYLEAA------K
+RRGPPKG-------YVETLEQRA------GRLER----MLRQ--VY--------------
+-----------------P--------GVDLN-------------------
+>UniRef90_F4R9U5_80_163 | Putative uncharacterized protein n=1 Tax=Melampsora larici-populina 98AG31 RepID=F4R9U5_MELLP
+---CDRCRSSKIKCVFE-----DGR------CAAC--AASG---VPCTFANPG------S
+LKERPPTQK-----DVEHLQARI------RSLER----LIHA--VA--------------
+-----------------PSLDLNNLPNVDKLDTLPHL-------------
+>UniRef90_C8VBI9_85_150 | Putative Zn(II)2Cys6 transcription factor (Eurofung) n=1 Tax=Aspergillus nidulans FGSC A4 RepID=C8VBI9_EMENI
+-RACENCREQKVKCSGQ-----RPS------CQRC--QESG---IQCSYGDR-------K
+REKLARR--------LSDLTTRV------ESFET----LLQI--IY--------------
+-----------------P--------NLD---------------------
+>UniRef90_B9WC09_15_104 | Transcription factor with zinc cluster DNA-binding motif, putative n=1 Tax=Candida dubliniensis CD36 RepID=B9WC09_CANDC
+RRACDFCRSKKAKCDGK-----SSV------CSNC--LTNK---EECVYSQPM------K
+RRGLPTG-------YTHDLEKRV------RLFQG----LVVR--LC--------------
+-----------------E--------DKYIQSRVEIILNEGSLVDDLVEL
+>UniRef90_Q55JV6_12_87 | Putative uncharacterized protein n=2 Tax=Cryptococcus neoformans var. neoformans RepID=Q55JV6_CRYNB
+QRACDICRKKKIKCDGPMNSLSSHK------CAYC--TERD---LECTYIEEA------Q
+RRGPPKG-------YLETVEQRC------GRLEK----LLQE--LH--------------
+-----------------P--------DFNFD-------------------
+>UniRef90_Q59Z83_15_104 | Potential fungal zinc cluster transcription factor n=3 Tax=Candida albicans RepID=Q59Z83_CANAL
+RRACDFCRSKKAKCDGK-----SPV------CSNC--FANK---EECIYSQPV------K
+RRGLPTG-------YTHDLEKKV------RLFQG----LIAR--LC--------------
+-----------------E--------DKYVQSRLQTILNDESLVDDLVEL
+>UniRef90_Q4PIF0_77_149 | Putative uncharacterized protein n=1 Tax=Ustilago maydis 521 RepID=Q4PIF0_USTMA
+QRACDTCRKKKVRCDGL--QPDKGA------CTNC--ANYG---YECTFVDAA------R
+KRAPPRS-------YIEAIEARI------VKMEQ----LIST--LA--------------
+-----------------P--------GVDF--------------------
+>UniRef90_G2XED6_72_135 | Fungal specific transcription factor domain-containing protein n=2 Tax=Verticillium RepID=G2XED6_VERDV
+-KACDMCRKKKIKCDGK-----MPA------CSHC--INYK---TECIFTQVE------K
+KRTPPKG-----AKYIEGLENRL------GRMEN----LLRL------------------
+--------------------------------------------------
+>UniRef90_F9GD73_176_245 | Uncharacterized protein (Fragment) n=1 Tax=Fusarium oxysporum Fo5176 RepID=F9GD73_FUSOF
+--ACMACRRKKIRCSGE-----KPA------CKHC--LQSR---IPCVYKVTT------R
+KAAPRTG-------YMAMLDKPL------KRMEE----RIIK--VI--------------
+-----------------P--------KSDQEV------------------
+>UniRef90_C4JPS2_22_104 | FacB protein n=1 Tax=Uncinocarpus reesii 1704 RepID=C4JPS2_UNCRE
+-QACDRCRSKKIRCDGI-----RPC------CSQC--ANVG---FECKTSDKL------S
+RRAFPRG-------YTESLEERV------RSLEA----EVRE--LK--------------
+-----------------S--------LLDEKDEKLEMISQLHSI------
+>UniRef90_Q2HBI7_68_131 | Putative uncharacterized protein n=1 Tax=Chaetomium globosum CBS 148.51 RepID=Q2HBI7_CHAGB
+-RACDMCRKKKIKCDGK-----LPA------CTHC--NNYK---TDCVFTQVE------K
+KRNPPKG-----AKYIEGLENRL------ERMES----LLRL------------------
+--------------------------------------------------
+>UniRef90_E6ZWQ6_51_130 | Putative uncharacterized protein n=1 Tax=Sporisorium reilianum SRZ2 RepID=E6ZWQ6_SPORE
+-RACEVCRRKKVKCNGQ-----KP-------CSQC--IAFA---EECNYVDVK------D
+RSAYSRR-------YVESLEARL------AGVENRVAFLLQR--QA--------------
+-----------------C--------DRVCEHHQPTEM------------
+>UniRef90_F2DYX8_22_104 | Predicted protein n=1 Tax=Hordeum vulgare subsp. vulgare RepID=F2DYX8_HORVD
+-QACDRCRSKKIRCDGV-----RPT------CTQC--SNVG---FECKTSDKL------S
+RRAFPRG-------YTESLEDRV------RGLEA----EVRE--LK--------------
+-----------------D--------LLDEKDEKIDMLSRIHSF------
+>UniRef90_Q2H0L2_93_169 | Putative uncharacterized protein n=1 Tax=Chaetomium globosum CBS 148.51 RepID=Q2H0L2_CHAGB
+--ACNRCRLRKNRCDQK-----LPS------CASC--EKAG---VACVGYDPI------T
+KREIPRS-------YIFYLEKRV------EQLEA----LLTT------------------
+-----------------NSITFPPPQDLDYCSK-----------------
+>UniRef90_G3XQW3_21_83 | Putative uncharacterized protein n=1 Tax=Aspergillus niger ATCC 1015 RepID=G3XQW3_ASPNA
+--ACDPCREKKIRCDGG-----KPI------CGSC--DRKSWGIAQCSYSMDN------P
+RTASQDE-------YIRVLRSRI------NELEDLCL-----------------------
+--------------------------------------------------
+>UniRef90_G2QTR3_67_130 | Putative uncharacterized protein n=1 Tax=Thielavia terrestris NRRL 8126 RepID=G2QTR3_THITE
+-RACDMCRKKKIKCDGK-----LPA------CTHC--TNYK---TECVFTQVE------K
+KRNPPKG-----AKYIEGLENRL------GRMEH----LLRL------------------
+--------------------------------------------------
+>UniRef90_E6ZJK0_71_143 | Related to transcriptional activator acu-15 n=1 Tax=Sporisorium reilianum SRZ2 RepID=E6ZJK0_SPORE
+QRACDTCRKKKVRCDGL--QPEKGA------CTNC--ANYG---YECTFVDAA------R
+KRAPPRS-------YVEAIEARI------VKMEH----LIAS--LA--------------
+-----------------P--------GVDF--------------------
+>UniRef90_H1V0M8_67_130 | Fungal specific transcription factor n=2 Tax=Glomerellaceae RepID=H1V0M8_COLHI
+-RACDMCRKKKIKCDGK-----MPA------CSHC--INYK---TDCVFTQVE------K
+KRNPPKG-----AKYIEGLENRL------GRMEN----LLRL------------------
+--------------------------------------------------
+>UniRef90_G0S5J2_87_166 | Putative uncharacterized protein n=1 Tax=Chaetomium thermophilum var. thermophilum DSM 1495 RepID=G0S5J2_CHATD
+--ACNRCRLRKNRCDQK-----LPS------CASC--EKAS---VACVGYDPI------T
+KREIPRS-------YIFYLEKRV------EQLEG----ILAA------------------
+-----------------NHIPFPPADDLDYCSKASS--------------
+>UniRef90_O59741_9_77 | Uncharacterized transcriptional regulatory protein C530.05 n=1 Tax=Schizosaccharomyces pombe 972h- RepID=YN25_SCHPO
+-RACDMCRKRKIRCDGK-----QPA------CSNC--VSHG---IPCVFTARP------K
+RRTGQR------QMYIKSLVSRL------EQMES----TLRS--VI--------------
+-----------------P--------NYD---------------------
+>UniRef90_C5GQM0_22_109 | C6 transcription factor FacB/Cat8 n=2 Tax=Ajellomyces dermatitidis RepID=C5GQM0_AJEDR
+-QACDRCRSKKIRCDGI-----RPC------CSQC--AHVG---FECKTSDKL------S
+RRAFPRG-------YTESLEDRV------RSLEA----EVRE--LK--------------
+-----------------G--------LLDEKDEKIDVLSRLQSFSSARK-
+>UniRef90_G2YE44_23_104 | Similar to transcription factor Cys6 n=2 Tax=Botryotinia fuckeliana RepID=G2YE44_BOTF4
+-QACDRCRSKKIRCDGI-----RPC------CSQC--SGVG---FECKTSDKL------S
+RRAFPRG-------YTESLEERV------RTLEG----EIRE--MK--------------
+-----------------E--------LLDGKDEKIEMLSKMHD-------
+>UniRef90_C7ZG28_23_92 | Putative uncharacterized protein n=1 Tax=Nectria haematococca mpVI 77-13-4 RepID=C7ZG28_NECH7
+-RACDMCRIKKIRCQPT-----KQG------CAQC--TKSK---TKCHFTPIS------T
+KRKPRRP---AGYKYIAQLEERL------QNMEN----VLEK--ALQR------------
+--------------------------------------------------
+>UniRef90_G2Q3X4_83_159 | Putative uncharacterized protein n=1 Tax=Myceliophthora thermophila ATCC 42464 RepID=G2Q3X4_THIHA
+--ACNRCRLRKNRCDQK-----LPS------CASC--EKAG---VACVGYDPI------T
+KREIPRS-------YIFYLEKRV------EQLEG----LLSA------------------
+-----------------NGIAFPPAQDLDYCSK-----------------
+>UniRef90_A5DYM2_19_86 | Putative uncharacterized protein n=1 Tax=Lodderomyces elongisporus NRRL YB-4239 RepID=A5DYM2_LODEL
+-QACDFCRSKKAKCDGL-----TPS------CTNC--AISE---EECKYTQSS------K
+RRGLPTG-------YTHDLEKRI------LILQG----LLGK--LL--------------
+-----------------E--------IDD---------------------
+>UniRef90_F9FBX2_14_89 | Uncharacterized protein n=1 Tax=Fusarium oxysporum Fo5176 RepID=F9FBX2_FUSOF
+-RACLNCQKRKSRC--------QPSVNGPGPCSYC--ARAG---KDCSFVNPP------D
+RTRLTRK-------NLDAIEQRC------NRLEA----LIRS------------------
+---------------------LHPGMDIDVAL------------------
+>UniRef90_B2WKX4_295_375 | Putative uncharacterized protein n=2 Tax=Pyrenophora RepID=B2WKX4_PYRTR
+KETCNACNVRRVKCTGE-----QP-------CQRC--HKAS---RQCEYPQQE------K
+QKHSLKD-------ELERLQQRC------AALEA----GFQA--AA--------------
+-----------------PDEATDFIAQLDQRRAV----------------
+>UniRef90_B0E041_26_98 | Predicted protein n=2 Tax=Laccaria bicolor S238N-H82 RepID=B0E041_LACBS
+QRACDICRTKKIRCDGV--QMPGNR------CLNC--ITCS---FDCTYVQKA------K
+KRGPSKG-------YVESLERRV------EMLEE----VLRR--LC--------------
+-----------------P--------DQNI--------------------
+>UniRef90_G0RQ61_32_102 | Predicted protein n=1 Tax=Trichoderma reesei QM6a RepID=G0RQ61_HYPJQ
+--ACDACRIAREKCDGE-----RPR------CGRC--VSQN---RSCSYTPTSK-----K
+RGIQSGYLRA-IELSLAWLLESV------PDCEEALYRLLV-------------------
+--------------------------------------------------
+>UniRef90_B6K2D8_36_118 | Transcription factor Thi5 n=1 Tax=Schizosaccharomyces japonicus yFS275 RepID=B6K2D8_SCHJY
+RKACLNCRAKKIRCDGC-----LP-------CQVC--ISAN---LECKYPTEQ------R
+ALPPSRQ-------YLEELLER-----------QRCLEYLMS--ILCPDVSLETADMLRL
+CHSIND--------------------------------------------
+>UniRef90_D5GBW8_103_171 | Whole genome shotgun sequence assembly, scaffold_2, strain Mel28 n=1 Tax=Tuber melanosporum Mel28 RepID=D5GBW8_TUBMM
+--ACQRCRTRKIRCDGA-----LPA------CKSC--VKAG---VECIEVDRT------G
+DNNMPRS-------HVLGLENRI------KWLED----IVRA------------------
+-----------------------RAPDVDLQ-------------------
+>UniRef90_B6Q8Z2_252_334 | C6 finger domain protein, putative n=1 Tax=Penicillium marneffei ATCC 18224 RepID=B6Q8Z2_PENMQ
+QQACDQCRARKAKCDEG-----RPA------CSHC--RENN---IECKYKDI--------
+---PPQKQEKS----TQLVLERV------GQIEDNIVNVLMD--RMTKMEKLLQYFITKS
+DI------------------------------------------------
+>UniRef90_Q0U0E6_63_139 | Putative uncharacterized protein n=1 Tax=Phaeosphaeria nodorum SN15 RepID=Q0U0E6_PHANO
+-RACDMCRKKKIKCDGK-----MPS------CTHC--QNYK---TECIFTQVE------K
+KRQPPKGCVARVCGYIEGLENRL------ARMES----LMRLSGVL--------------
+-----------------P--------EDD---------------------
+>UniRef90_P36598_37_105 | Thiamine repressible genes regulatory protein thi1 n=1 Tax=Schizosaccharomyces pombe 972h- RepID=THI1_SCHPO
+-RACKHCRQKKIKCNGG-----QP-------CISC--KTLN---IECVYAQKS------Q
+NKTLSRE-------YLEELSER-----------QLCLEYIFS--RMCPNFNLE-------
+--------------------------------------------------
+>UniRef90_F9X2S7_37_112 | Putative uncharacterized protein n=1 Tax=Mycosphaerella graminicola IPO323 RepID=F9X2S7_MYCGM
+--ACIECRRRKIRCDGN-----QP-------CGQCNWYQHP---ELCAYSKPA------Q
+RVIPSRK-------LVERLQSQV------EQYHS----LFAR--LF--------------
+-----------------PGKELENILTMS---------------------
+>UniRef90_C5G984_224_303 | C6 zinc finger domain-containing protein n=3 Tax=Ajellomyces dermatitidis RepID=C5G984_AJEDR
+QQACDQCRSRKAKCDEG-----RPA------CSHC--KENN---VPCVYKDV--------
+---PPQKQERS----TQIIIERI------DRQEESEKAARED--LMTRLNEMKALLAGV-
+--------------------------------------------------
+>UniRef90_G8JWP5_25_92 | Putative uncharacterized protein n=1 Tax=Eremothecium cymbalariae DBVPG#7215 RepID=G8JWP5_ERECY
+-KACDTCRAKKIKCNGE-----EP-------CSNC--GKHD---LECAYTHVI------K
+RRRPVPTRI-SNRKLLGDLSSRL------QRLEQ----LLER--V---------------
+--------------------------------------------------
+>UniRef90_C8V010_233_303 | Putative Zn(II)2Cys6 transcription factor (Eurofung) n=2 Tax=Aspergillus nidulans FGSC A4 RepID=C8V010_EMENI
+QQACDQCRTRKAKCDEG-----RPA------CSHC--KENN---YVCVYKEV--------
+---PPHKQDKS----TQLLLDRI-------QQLDDQLNVRLE--AAERLHL---------
+--------------------------------------------------
+>UniRef90_F2CYK7_18_91 | Predicted protein n=1 Tax=Hordeum vulgare subsp. vulgare RepID=F2CYK7_HORVD
+KRSCDVCRSKKIRCDGPEKK-SHEK------CTNC--VEMK---VACTYVETA------K
+RRGPPKG-------YVEQLEQRM------MRLEA----TLKR--LH--------------
+-----------------P--------DTDF--------------------
+>UniRef90_B6K6N7_54_123 | Predicted protein n=1 Tax=Schizosaccharomyces japonicus yFS275 RepID=B6K6N7_SCHJY
+RKACDACRLKKIRCLGE-----RPV------CSNC--QSLN---IACVYGVRK------K
+KRVVATENSATGSNV--NIEKRL------IRIES----MLRS--VV--------------
+--------------------------------------------------
+>UniRef90_F9GFI6_60_133 | Uncharacterized protein n=1 Tax=Fusarium oxysporum Fo5176 RepID=F9GFI6_FUSOF
+--ACEPCRKRKAKCCGE-----RPK------CKAC--IKKG---LECHYQASDQDLFDLK
+RKHDEIQERANIYERLYDLLMNL------P--EQDSHAIL--------------------
+--------------------------------------------------
+>UniRef90_C6HRE7_387_456 | C6 transcription factor n=1 Tax=Ajellomyces capsulatus H143 RepID=C6HRE7_AJECH
+-RACDECRRKKIKCDGK-----QP-------CTHC--TVYS---YDCTYDQPS------N
+RRRNPA------PQYIEALENRV------HKAEA----ILRT--VI--------------
+-----------------P--------DLDIN-------------------
+>UniRef90_G0RAS6_90_163 | N-terminal binuclear Zn cluster-containing protein (Fragment) n=1 Tax=Trichoderma reesei QM6a RepID=G0RAS6_HYPJQ
+--ACNRCRLRKNRCDQK-----LPS------CASC--NKVG---VSCVGYDPI------T
+KKEIPRS-------YVFYLETRV------EVLEK----LLAS------------------
+-----------------NNITFPPAEDLDV--------------------
+>UniRef90_C7ZEV1_43_125 | Putative uncharacterized protein n=1 Tax=Nectria haematococca mpVI 77-13-4 RepID=C7ZEV1_NECH7
+-QACRSCRQNKVKCDGR-----RPQ------CGTC--SSRL---RSCRYESKV------N
+---MPRR---------AALKTRL------EALEK----LFST------------------
+-------------------LQAKPSKDANLLLQQIRSSDDIDALL-----
+>UniRef90_G1X044_84_154 | Putative uncharacterized protein n=1 Tax=Arthrobotrys oligospora ATCC 24927 RepID=G1X044_ARTOA
+--ACIACRRKKIRCSGE-----KPA------CKHC--VRAR---TPCVYKQTA------R
+KFVPRTD-------YMATLDKRM------KRMEE----RLLK--YV--------------
+-----------------S--------KDQASAL-----------------
+>UniRef90_G2R410_76_145 | Putative uncharacterized protein n=1 Tax=Thielavia terrestris NRRL 8126 RepID=G2R410_THITE
+--ACNRCRLRKNRCDQK-----LPS------CASC--EKAG---VACVGYDPI------T
+KREIPRS-------YIFYLEKRV------ELLEA----LLAA------------------
+-----------------NNVAFPPAQ------------------------
+>UniRef90_D8Q775_29_109 | Putative uncharacterized protein (Fragment) n=1 Tax=Schizophyllum commune H4-8 RepID=D8Q775_SCHCM
+QRACDKCRRKKIRCDGI--QQGSTQ------CSNC--AASK---SECTYDEPH------K
+KRDISPS-------SVDNLEKRL------ERAMV----LLKK--FY--------------
+-----------------SENEITKALEDDE--------------------
+>UniRef90_B2B2E6_80_149 | Predicted CDS Pa_6_3420 n=1 Tax=Podospora anserina S mat+ RepID=B2B2E6_PODAN
+--ACNRCRLRKNRCDQK-----LPS------CASC--EKAG---VPCVGYDPI------T
+KREIPRS-------YIFYLEKRV------EQLEG----ILRE------------------
+-----------------KGVGFPRAE------------------------
+>UniRef90_UPI0001505132_52_120 | UPI0001505132 related cluster n=1 Tax=unknown RepID=UPI0001505132
+--ACTTCRIRKSKCDAG-----RPR------CSTC--RDYG---TDCAYSPS--------
+---GPLNGATASREHYESVETRL------LALER----ALTG------------------
+-----------------------LNSRVD---------------------
+>UniRef90_E9E4I1_43_106 | Fungal specific transcription factor domain containing protein n=1 Tax=Metarhizium acridum CQMa 102 RepID=E9E4I1_METAQ
+DQACKECRRRKARCNRA-----LPT------CDLC--VKYR---RHCLYE-KH------S
+R--TPLTRK-SAFPDLNPVLARL------ERAEA----LL--------------------
+--------------------------------------------------
+>UniRef90_G8BY05_82_144 | Putative uncharacterized protein TPHA0I02820 n=1 Tax=Tetrapisispora phaffii CBS 4417 RepID=G8BY05_TETPH
+-QACDRCRLKKIKCDGL-----KPS------CTHC--SKIK---FACKTSDRL------T
+RRGFPKG-------YTEMLERQV------IELQH----KLKL--L---------------
+--------------------------------------------------
+>UniRef90_E3RWA9_38_112 | Putative uncharacterized protein n=1 Tax=Pyrenophora teres f. teres 0-1 RepID=E3RWA9_PYRTT
+-RACNACNVRRVKCTGE-----QP-------CQRC--HKAS---RQCEYPPQE------T
+QKHSLKD-------ELERLQQRC------AALEA----GFQA--AA--------------
+-----------------PDEAAGFIAQLD---------------------
+>UniRef90_B6HT86_24_96 | Pc22g17630 protein n=1 Tax=Penicillium chrysogenum Wisconsin 54-1255 RepID=B6HT86_PENCW
+--ACDACRTRKSRCDGK-----RPS------CSLC--QDLG---FACVYTPP--------
+---PTAANVVVQKDYLHGLEDRV------KRLEE----SFGA------------------
+-----------------------VRGDLDGLAK-----------------
+>UniRef90_B0D9E9_26_98 | Predicted protein n=1 Tax=Laccaria bicolor S238N-H82 RepID=B0D9E9_LACBS
+QRACDICRRKKIRCDGV--QMPGNR------CSNC--ILCS---FDCTYVEAA------K
+KRGPTKG-------YVEILERRV------EMLEE----VLRR--LC--------------
+-----------------P--------DQNI--------------------
