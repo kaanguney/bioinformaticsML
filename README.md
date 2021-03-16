@@ -1,4 +1,4 @@
-# bioinformaticsML
+# bioinformatics
 ```bash
 proposes several ML algorithms and analytics tools on sequencing 
 
